@@ -1,0 +1,16 @@
+{
+    "name": "autoanuncios",
+    "version": "1.0.0",
+    "description": "gestion de anuncios automaticos en paguinas web ",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ruben Castillo Villa",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.9.16",
+        "nodemon": "^2.0.4"
+    }
+}
